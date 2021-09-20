@@ -1,0 +1,28 @@
+.order{
+color: rgb(211, 74, 74);
+line-height: 40px;
+font-weight: bold;
+}
+.unorder{
+color: rgb(211, 74, 74);
+font-weight: bold;
+letter-spacing: 8px;
+}
+h1{
+    color: red;
+}
+h2{
+   color:orangered; 
+   font-style: italic;
+}
+.para{
+    color: #808000;
+}
+.link{
+    text-decoration: none;
+    font-style: oblique;
+}
+.container{
+    font-style: italic;
+    text-decoration-line: underline;
+}
